@@ -1,0 +1,2 @@
+Analise o seguinte texto clínico e retorne um JSON estruturado:
+{INPUT}
