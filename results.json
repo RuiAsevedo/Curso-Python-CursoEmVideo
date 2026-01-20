@@ -1,0 +1,44 @@
+{
+  "total": 1,
+  "ok": 1,
+  "results": [
+    {
+      "file": "caso_teste.txt",
+      "ok": true,
+      "errors": [],
+      "output": {
+        "analysis": "O paciente apresenta resistência inicial e fragmentação subjetiva importante no discurso.",
+        "themes": [
+          "Angústia",
+          "Resistência",
+          "Desejo Inconsciente"
+        ],
+        "signifiers": [
+          "atraso",
+          "silêncio",
+          "mãe",
+          "repetição"
+        ],
+        "hypotheses": [
+          "Neurose de transferência",
+          "Inibição intelectual"
+        ],
+        "questions": [
+          "Por que o atraso?",
+          "Qual o papel da mãe?",
+          "O que silencia agora?"
+        ],
+        "risk_assessment": {
+          "level": "baixo",
+          "signals": [
+            "Boa aliança terapêutica"
+          ]
+        },
+        "clinical_report": {
+          "required": false,
+          "summary": "Paciente estável emocionalmente."
+        }
+      }
+    }
+  ]
+}
